@@ -1,0 +1,17 @@
+{
+  "name": "minimum-server",
+  "version": "1.0.0",
+  "description": "Socket server for minimum",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pankajphartiyal90@gmail.com <Pankaj Phartiyal>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "mongodb": "^3.0.4",
+    "socket.io": "^2.0.4"
+  }
+}
